@@ -22,6 +22,7 @@ Our experiments were conducted on a machine running Ubuntu 20.04 LTS. We run our
 
 ## Datasets
 - Folder "dataset": contains datasets as introduced above.
+- Note: Some datasets (weather and Anti-Cor_3_1000000) are larger than 25M which are not permitted to upload. We are glad to share them on request.
 
 ## Useful tools
 - Files "src/IOUtil.h" and "src/IOUtil.cpp": are used to load the datasets.
