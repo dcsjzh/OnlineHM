@@ -15,7 +15,7 @@ This repository provides 2 synthetic datasets and 3 real datasets used in our ex
 * Weather: a 15-dimensional real dataset with 566,268 points, each of which consists of average monthly precipitation totals and elevation at over half a million sensor locations.
 
 # How to reproduce the experiments in our paper
-Our experiments were conducted on a machine running Ubuntu 20.04 LTS. We run our experiments on 2 synthetic datasets and 3 real datasets, and all algorithms were implemented in C++. We provide the explanations of the files as follows:
+Our experiments were conducted on a machine running Ubuntu 20.04 LTS. We run our experiments on 2 synthetic datasets and 3 real datasets, and all algorithms were implemented in C++ (GCC 11.0 or later). We provide the explanations of the files as follows:
 
 ## Main function
 - File "src/main.cpp": is used to conduct comparative experiments for Online-AHMQ problem and output results.
